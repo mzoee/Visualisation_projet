@@ -14,4 +14,3 @@ C'est un travail d'équipe qu'il s’agit de représentation visuelle des donné
 
 •	Le troisième diagramme fait par Shahrzad Asgari, constitue la représentation du taux de la natalité et le taux de la mortalité sous forme d’un time chart depuis l'année 1960 jusqu'à 2018.
 Cette partie du travail consiste à trois diagrammes. 1) une linechart qui montre le taux de la natalité et la mortalité, 2) une mixe de barchart et linechart du taux de la natalité et la mortalité, 3) une barchart D3 de la mortalté, et le quatrième est une barchart D3 de la natalité.
-
