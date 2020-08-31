@@ -13,4 +13,5 @@ C'est un travail d'équipe qu'il s’agit de représentation visuelle des donné
 •	Dans le deuxième diagramme, fait par Zarrin Minoosepehr, nous avons représenté la répartition par genre de la population totale du pays. La pyramide présentée est constatée de deux histogrammes juxtaposés, un pour les femmes et l’autre pour les hommes. Les données sont tirée de la dernière recensement population d'Iran en 2016. 
 
 •	Le troisième diagramme fait par Shahrzad Asgari, constitue la représentation du taux de la natalité et le taux de la mortalité sous forme d’un time chart depuis l'année 1960 jusqu'à 2018.
+Cette partie du travail consiste à trois diagrammes. 1) une linechart qui montre le taux de la natalité et la mortalité, 2) une mixe de barchart et linechart du taux de la natalité et la mortalité, 3) une barchart D3 de la mortalté, et le quatrième est une barchart D3 de la natalité.
 
