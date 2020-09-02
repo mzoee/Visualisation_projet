@@ -1,0 +1,1 @@
+en ayant le diagramme circulaire de toutes les provinces, il m'est venu à l'esprit de classer les provinces en fonction de leur population. Comme l'Iran est un grand pays avec 31 provinces, j'ai décidé de ne classer que les 10 provinces les plus peuplées en utilisant d3.
