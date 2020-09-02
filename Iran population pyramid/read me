@@ -1,0 +1,1 @@
+ce projet contient deux parties, l'une est la pyramide des sexes et des âges de la population totale de l'Iran et l'autre partie est la carte de l'Iran plus la pyramide des âges de chaque province. L'Iran compte 31 provinces et vous pouvez cliquer sur chacune d'elles sur la carte, puis voir la pyramide des âges en fonction du sexe et des groupes d'âge.
